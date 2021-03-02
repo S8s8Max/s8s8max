@@ -1,4 +1,7 @@
-### Hi there 👋
+# Kippei Watanabe 🍌 #
+### = S8s8Max ###
+### = Sober Wizard ###
+### → https://s8s8max.me ###
 
 <!--
 **S8s8Max/s8s8max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
