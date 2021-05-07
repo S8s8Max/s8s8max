@@ -1,6 +1,5 @@
 # 🍌 #
 ### = S8s8Max ###
-### = Sober Wizard ###
 ### → https://s8s8max.me ###
 
 <!--
