@@ -1,5 +1,4 @@
 # 🍌 #
-### = S8s8Max ###
 
 <!--
 **S8s8Max/s8s8max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
